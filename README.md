@@ -8,7 +8,7 @@ From Magna Carta (1215) to the Convention on the Rights of Persons with Disabili
 
 The page is made by [Irie](https://github.com/irie-people/irie)'s Charters plugin, which keeps the texts word for word from the bodies that keep them, each checked against other copies. Irie's [verification.md](https://github.com/irie-people/irie/blob/main/internal/skills/bundled/founding-documents/verification.md) says what each text was checked against and gives each file's SHA-512, and its [proposal](https://github.com/irie-people/irie/blob/main/docs/proposals/founding-documents.md) says how the map finds its links, parts and rights. In Irie's Mac app the same map is Window › Charters Graph.
 
-The links between the texts are a reading of them, each quoting both texts word for word. A right or idea is shown where its words are in a text's own passages, and the page shows the words each one rests on.
+The links between the texts are a reading of them, each a sentence on how the later text drew on the earlier; most quote both texts word for word. A right or idea is shown where its words are in a text's own passages, and the page shows the words each one rests on.
 
 ## Terms
 
